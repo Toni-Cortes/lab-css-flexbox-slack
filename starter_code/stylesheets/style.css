@@ -507,6 +507,12 @@ footer links grey: #454245
 
     }
 
+    .stats-section ul li {
+        
+        margin: 20px;
+       
+    }
+
 }
 
 @media (max-width: 480px) {
